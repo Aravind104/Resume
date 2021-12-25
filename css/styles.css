@@ -1,0 +1,15 @@
+.top-container {
+    font-style: italic;
+}
+
+.middle-container {
+    background-color: red;
+    width: 200px;
+    height: 200px;
+}
+
+.bottom-container {
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+}
