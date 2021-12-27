@@ -92,4 +92,9 @@ h3 {
     position: absolute;
     top: 920px;
     left: 400px;
+    color: #EAF6F6;
+}
+
+a:hover {
+    color: #EAF6F6;
 }
